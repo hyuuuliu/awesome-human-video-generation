@@ -38,8 +38,6 @@ A curated list of papers on human video generation, organized by driving signals
 
 ### Video-Driven Human Video Generation
 
-Video-driven human video generation focuses on transferring motions and expressions from reference videos to target images or videos. These models can animate static images or modify existing videos while preserving identity and style.
-
 - [Animate Anyone 2: High-Fidelity Character Image Animation with Environment Affordance](https://arxiv.org/abs/2502.06145) (Feb., 2025) `Alibaba` [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.06145) [![Website](https://img.shields.io/badge/website-598BFF)](https://humanaigc.github.io/animate-anyone-2/)
 
 - [MIMO: Controllable Character Video Synthesis with Spatial Decomposed Modeling](https://arxiv.org/abs/2409.16160) (Sep., 2024) `Tsinghua University` [![Star](https://img.shields.io/github/stars/menyifang/MIMO.svg?style=social&label=Star)](https://github.com/menyifang/MIMO) [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.16160) [![Website](https://img.shields.io/badge/website-598BFF)](https://menyifang.github.io/projects/MIMO/index.html)
