@@ -11,6 +11,9 @@ A curated list of papers on human video generation, organized by driving signals
 
 ### Text-Driven Human Video Generation
 
+- [Packing Input Frame Context in Next-Frame Prediction Models for Video Generation](https://arxiv.org/abs/2504.12626) (Apr., 2025) `Stanford University`<br>
+  [![Star](https://img.shields.io/github/stars/lllyasviel/FramePack.svg?style=social&label=Star)](https://github.com/lllyasviel/FramePack) [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.12626) [![Website](https://img.shields.io/badge/website-598BFF)](https://lllyasviel.github.io/frame_pack_gitpage/)
+
 - [Wan: Open and Advanced Large-Scale Video Generative Models](https://arxiv.org/abs/2503.20314) (Mar., 2025) `Alibaba`<br>
   [![Star](https://img.shields.io/github/stars/Wan-Video/Wan2.1.svg?style=social&label=Star)](https://github.com/Wan-Video/Wan2.1) [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.20314) [![Website](https://img.shields.io/badge/website-598BFF)](https://wan.video/)
 
